@@ -160,8 +160,8 @@ Hexdump of the beginning of a **version 2** file with `mp3` audio and one lyrics
 01                           lyrics_count      1
 03                           lyrics_name_len   3
 41 6E 6E                     lyrics_name       "Ann"
-04                           lyrics_format_len 4
-65 6C 72 63                  lyrics_format     "srt"
+03                           lyrics_format_len 3
+73 72 74                     lyrics_format     "srt"
 05 00 00 00                  lyrics_len        5
 68 65 6C 6C 6F               lyrics            "hello"
 ...                          audio             (rest of file)
