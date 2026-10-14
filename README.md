@@ -2,14 +2,6 @@
 
 A simple binary container that bundles **audio** and **enhanced LRC lyrics** into a single file, designed for karaoke applications.
 
-| | |
-|---|---|
-| **Extension** | `.kmf` |
-| **Magic header** | `==kmusf==` (ASCII, 9 bytes) |
-| **Byte order** | Little-endian |
-| **Text encoding** | UTF-8 |
-| **Current version** | 2 |
-
 ---
 
 ## Table of contents
